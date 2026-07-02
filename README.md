@@ -13,3 +13,4 @@ V1.0 Alpha: Frontend + Cloudflare Pages Functions.
 
 ## Database
 Yêu cầu đã có 4 bảng: members, event_types, tournaments, registrations.
+Update deploy
